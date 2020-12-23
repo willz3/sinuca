@@ -1,0 +1,17 @@
+{
+    "compilerOptions": {
+      "target": "es2017",                        
+      "module": "commonjs",                     
+      "allowJs": true,                     
+      "esModuleInterop": true,                  
+      "skipLibCheck": true,                     
+      "forceConsistentCasingInFileNames": true,
+      "rootDir": "./src",
+      "outDir": "./dist",
+      "sourceMap": true,
+    },
+    "include": [
+      "src/**/*.ts"
+    ]
+  }
+  

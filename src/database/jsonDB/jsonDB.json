@@ -1,0 +1,59 @@
+{
+    "player": [
+        {
+            "name": "ddd",
+            "uuid": "9f4d039c-25bb-4e66-b991-89e047914914"
+        },
+        {
+            "name": "ddd",
+            "uuid": "33359c43-6985-491e-969e-5257eecc0c2f"
+        },
+        {
+            "name": "ddd",
+            "uuid": "daaeec44-fc17-4718-9391-921950b2f6eb"
+        },
+        {
+            "name": "www",
+            "uuid": "cb95d8a6-f2b1-40f6-9aa2-f73e7349b0b3"
+        },
+        {
+            "name": "aaa",
+            "uuid": "41d6544e-e971-4da7-b2dc-7d746d234c83"
+        },
+        {
+            "name": "vvv",
+            "uuid": "18b6f37e-6324-45dc-b48e-77f83c5de369"
+        }
+    ],
+    "team": [
+        {
+            "players": [
+                {
+                    "name": "will",
+                    "uuid": "6a01a095-589a-4705-b5e0-e92709f8e5f5"
+                },
+                {
+                    "name": "sda",
+                    "uuid": "da3c0e44-8bf2-432f-b462-128f98a80bef"
+                }
+            ],
+            "name": "Ursos porteiros",
+            "uuid": "d36d4e31-d28d-4133-ada0-c5691c4ebaa9"
+        },
+        {
+            "players": [
+                {
+                    "name": "will",
+                    "uuid": "6a01a095-589a-4705-b5e0-e92709f8e5f5"
+                },
+                {
+                    "name": "sda",
+                    "uuid": "da3c0e44-8bf2-432f-b462-128f98a80bef"
+                }
+            ],
+            "name": "Ursos agiotas",
+            "uuid": "2ca8e83d-54ae-476a-add9-8e1bd90f6c83"
+        }
+    ],
+    "pointsTable": []
+}
